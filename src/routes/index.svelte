@@ -15,6 +15,7 @@
 		margin: 0 0 0.5em 0;
 	}
 
+
 	figure {
 		margin: 0 0 1em 0;
 	}
@@ -40,7 +41,7 @@
 	<title>Sapper project template</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>Tere tulemast!</h1>
 
 <figure>
 	<img alt="Success Kid" src="{successkid}">
